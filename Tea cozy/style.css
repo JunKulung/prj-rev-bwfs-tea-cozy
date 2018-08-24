@@ -1,0 +1,193 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #050101;
+    height: 70px;
+    border-bottom: #fff 1px solid;
+
+
+}
+nav {
+    margin: 0;
+    padding: 5px 0;
+    text-align: right;
+    padding-right: 50px; 
+  
+}
+nav li {
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    display: inline-block;
+    width: 80px;
+}
+a{
+    color:white;
+}
+
+.head img {
+    width: 150px;
+    height: auto;
+    float: left;
+    margin-top: -10px;
+    color: white;
+    font-family: Brush Script MT;
+    font-size: 21px;
+    padding-left: 20px;
+   
+ 
+}
+.jumbotron {
+    height: 800px;
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+ 
+}
+
+.container {
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 10 10px;
+    text-align: center;
+
+
+}
+main h1{
+
+
+color: rgb(0, 0, 0);
+font-family: 'Raleway', sans-serif;
+
+font-size: 70px;
+margin-top: 0px;
+padding-top: 300px;
+text-transform: uppercase;
+text-shadow: 2px 2px #fafafa;
+opacity: 0.8;
+}
+main span{
+    font-size: 20px;
+    font-size: 23px;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px #fafafa;
+
+}
+.con{
+    margin: 0;
+
+
+}#Tea {
+    padding: 20px;
+    background-color: #000000;
+    margin: 0;
+    text-align: center;
+    color: white;
+  }
+
+  .column {
+    float: left;
+    width: 33.33%;
+    text-align: center;
+    background-color: #000000;
+    color: white;   
+
+}
+
+.row img{
+    height: 250px;
+    width: 400px;
+    position: relative;
+    padding: 5px;
+
+}
+.column1 {
+    float: left;
+    width: 50%;
+    text-align: center;
+    background-color: #000000;
+    color: white;   
+
+
+}
+.row1 img{
+    height: 250px;
+    width: 400px;
+    position: relative;
+    padding: 5px;
+}
+
+.cont {
+    position: relative;
+    text-align: center;
+    color: white;
+   
+}
+.cont img{
+    height: 600px;
+    
+}
+.left {
+    position: absolute;
+    bottom: 200px;
+    left: 200px;
+    background-color: #000000;
+    padding: 40px 20px;
+    font-size: 40px;
+}
+.center {
+    position: absolute;
+    bottom: 200px;
+    left: 520px;
+    background-color: #000000;
+    padding: 40px 20px;
+    font-size: 40px;
+}
+.right {
+    position: absolute;
+    bottom: 200px;
+    left: 880px;
+    background-color: #000000;
+    padding: 40px 20px;
+    font-size: 40px;
+}
+.location{
+    position: absolute;
+    bottom: 480px;
+    left: 580px;
+    padding: 40px 20px;
+    font-size: 40px;
+    color:rgb(227, 227, 233);  
+      text-shadow: 2px 2px #050505;
+}
+.footer{
+    background-color: #000000;
+    padding: 0px;  
+    color: white;
+
+}
+.content{
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+    text-align: center;
+    
+}
+footer {
+    background-color: rgb(2, 2, 2);
+    color: #fff;
+    padding: 20px 0;
+  
+
+}
+
+
+
+
